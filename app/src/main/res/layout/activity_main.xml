@@ -7,6 +7,17 @@
     android:background="@color/black"
     tools:context=".MainActivity" >
 
+    <TextView
+        android:id="@+id/helloTv"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:text="Hello World"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
     <FrameLayout
         app:layout_constraintBottom_toTopOf="@id/container"
         app:layout_constraintTop_toTopOf="parent"

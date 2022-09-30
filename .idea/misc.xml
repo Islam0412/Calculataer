@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/calculator/app/src/main/res/drawable/ic_baseline_lens_tochca.xml" value="0.103" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/calculator/app/src/main/res/drawable/ic_baseline_st.xml" value="0.105" />
         <entry key="..\:/Users/user/AndroidStudioProjects/calculator/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/calculator/app/src/main/res/layout/activity_second_activate.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/calculator/app/src/main/res/layout/pihjpi.xml" value="0.1717896174863388" />
       </map>
     </option>
   </component>
